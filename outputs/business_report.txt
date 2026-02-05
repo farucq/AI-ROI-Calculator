@@ -1,1 +1,12 @@
 
+AI ROI ANALYSIS – DOCUMENT PROCESSING
+
+Manual annual cost: ₹3,326,400
+AI system annual cost: ₹1,120,000
+
+Annual savings: ₹2,206,400
+ROI: 197.00%
+Payback period: 1.8 months
+
+Conclusion:
+AI automation is financially viable with strong cost recovery within first year.
